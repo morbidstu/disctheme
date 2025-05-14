@@ -16,8 +16,8 @@
 		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
 		"INTERACTIVE_NORMAL": [ "#C8C8C8", "#C8C8C8" ],
 		"KEYBOARD": [ "#0D0D0D", "#0D0D0D" ],
-		"TEXT_MUTED": [ "#FFFFFF", "#FFFFFF" ],
-		"TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF" ]
+		"TEXT_MUTED": [ "##DDD3FC", "##DDD3FC" ],
+		"TEXT_NORMAL": [ "##DDD3FC", "##DDD3FC" ]
 	},
 	"rawColors": {
 		"PRIMARY_600": "#00B344",
