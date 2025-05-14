@@ -1,0 +1,38 @@
+{
+	"name": "Discord_Dark_mod",
+	"description": "A Github Dark Theme for Enmity",
+	"version": "3.0",
+	"authors": [{ "name": "SyndiShanX(orig), morbid", "id": "178394162381455360" }],
+	"spec": 2,
+	"background": {
+		"blur": 0,
+		"url": "https://i.pinimg.com/736x/86/6d/7f/866d7fffd54ec114737cf120ccdf7493.jpg",
+		"alpha": 1.0
+	},
+	"semanticColors": {
+		"BACKGROUND_PRIMARY": [ "#1A1A1A", "#1A1A1A" ],
+		"BACKGROUND_SECONDARY": [ "#0D0D0D", "#0D0D0D" ],
+		"HEADER_PRIMARY": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF" ],
+		"INTERACTIVE_NORMAL": [ "#C8C8C8", "#C8C8C8" ],
+		"KEYBOARD": [ "#0D0D0D", "#0D0D0D" ],
+		"TEXT_MUTED": [ "#FFFFFF", "#FFFFFF" ],
+		"TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF" ]
+	},
+	"rawColors": {
+		"PRIMARY_600": "#00B344",
+		"PRIMARY_660": "#3A496B",
+		"BRAND_360": "#3A496B",
+		"BRAND_500": "#3A496B",
+		"BRAND_560": "#3A496B",
+		"PLUM_6": "#FFFFFF",
+		"PLUM_9": "#949BA4",
+		"PLUM_10": "#8D919C",
+		"PLUM_16": "#4F545C",
+		"PLUM_17": "#1A1A1A",
+		"PLUM_18": "#1A1A1A",
+		"PLUM_20": "#1A1A1A",
+		"PLUM_22": "#1A1A1A",
+		"PLUM_24": "#1A1A1A"
+	}
+}
